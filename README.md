@@ -14,9 +14,9 @@ Not all files are ours. Link for libraries: <a href="https://introcs.cs.princeto
 
 You can run the program by command "java NBody arg1 arg2 arg3"
 
-<b>arg1:</b> the duration of the simulation (T).
-<b>arg2:</b> the simulation time increment (dt).
-<b>arg3:</b> name of the file for reading locations of planets, masses, image of planet.
+<p><b>arg1:</b> the duration of the simulation (T).</p>
+<p><b>arg2:</b> the simulation time increment (dt).</p>
+<p><b>arg3:</b> name of the file for reading locations of planets, masses, image of planet.</p>
 
 For example:
 
